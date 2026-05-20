@@ -7,6 +7,13 @@ Low-backlash reverse-cycloidal robotic actuator for articulated robotic manipula
 [Watch the Presentation Video](https://www.youtube.com/watch?v=Ntv47qB1Hks&embeds_referring_euri=https%3A%2F%2Fwww.rayanabdulgafoor.in%2F)
 
 ---
+## Full Project Documentation
+
+Detailed project documentation, development logs, fabrication workflow, and testing results are available here:
+
+[Portfolio Documentation](https://www.rayanabdulgafoor.in/projects/robotics/gear-box/cycloidal-drive-21/index.html)
+
+---
 
 ## Overview
 
@@ -64,5 +71,36 @@ The actuator system was fabricated using a combination of:
 * Experimental assembly and calibration procedures
 
 ---
+
+## Testing & Validation
+
+The actuator was iteratively tested to evaluate:
+
+* Backlash behavior
+* Torque transmission smoothness
+* Repeatability
+* Shaft alignment stability
+* Encoder feedback consistency
+* Electromechanical integration reliability
+
+<!-- ---
+
+## Repository Structure
+
+```text
+precision-cycloidal-robotic-joint-actuator/
+│
+├── README.md
+├── docs/
+├── cad/
+├── electronics/
+├── firmware/
+├── media/
+├── manufacturing/
+└── testing/
+```
+
+--- -->
+
 
 
