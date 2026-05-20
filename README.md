@@ -29,4 +29,19 @@ The project combines mechanical transmission design, embedded systems integratio
 
 ---
 
+## Tech Stack / Hardware
+
+ESP32 | AS5600 Encoder | NEMA17 Stepper Motor | TB6600 Driver | Fusion 360 | PETG | Arduino IDE
+
+---
+
+## Mechanical Design Highlights
+
+* Optimized lobe geometry and eccentricity for smoother torque transmission
+* Bearing-supported output architecture for improved alignment stability
+* Modular assembly for easier calibration and maintenance
+* Compact actuator packaging for robotic arm integration
+
+---
+
 
