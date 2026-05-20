@@ -16,4 +16,17 @@ The project combines mechanical transmission design, embedded systems integratio
 
 ---
 
+## Key Features
+
+* 21:1 reverse-cycloidal reduction systems
+* Compact coaxial robotic joint architecture
+* Low-backlash transmission design
+* Closed-loop encoder feedback integration
+* ESP32-based embedded control system
+* Modular actuator housing and assembly
+* Rapid prototyping using 3D printing workflows
+* Iterative mechanical testing and validation
+
+---
+
 
