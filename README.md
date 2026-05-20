@@ -4,7 +4,7 @@ Low-backlash reverse-cycloidal robotic actuator for articulated robotic manipula
 
 ![Hero Image](assets/renders/cycloidal_hero_render.png)
 
-[Watch the Presentation Video](https://www.youtube.com/watch?v=Ntv47qB1Hks&embeds_referring_euri=https%3A%2F%2Fwww.rayanabdulgafoor.in%2F)
+[Presentation Video](https://www.youtube.com/watch?v=Ntv47qB1Hks&embeds_referring_euri=https%3A%2F%2Fwww.rayanabdulgafoor.in%2F)
 
 ---
 ## Full Project Documentation
