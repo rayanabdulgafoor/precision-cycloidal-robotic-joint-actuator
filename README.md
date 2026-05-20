@@ -102,5 +102,25 @@ precision-cycloidal-robotic-joint-actuator/
 
 --- -->
 
+## Media & Demonstrations
+
+### CAD Render
+
+![CAD Render](media/renders/actuator_render.png)
+
+### Prototype Assembly
+
+![Prototype](/assets/photos/cycloidal_hero_prototype_system_integration.jpg)
+
+### Testing & Motion Demo
+
+[Watch Demo Video 1](https://www.youtube.com/watch?v=gJol7gVJ0RA)
+
+[Watch Demo Video 2](https://www.youtube.com/watch?v=V0TomY4EiDM)
+
+[Watch Demo Video 3](https://www.youtube.com/watch?v=i-cdr4gTkF4&t=19s)
+
+---
+
 
 
