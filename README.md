@@ -104,9 +104,9 @@ precision-cycloidal-robotic-joint-actuator/
 
 ## Media & Demonstrations
 
-### CAD Render
+### CAD 
 
-![CAD Render](media/renders/actuator_render.png)
+![CAD Render](/assets/renders/cycloidal_drive_cad.png)
 
 ### Prototype Assembly
 
