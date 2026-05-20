@@ -122,6 +122,18 @@ precision-cycloidal-robotic-joint-actuator/
 
 ---
 
+## Future Improvements
 
+* Integration with higher torque BLDC systems
+* Improved actuator housing rigidity
+* Precision-machined transmission components
+* Advanced closed-loop motion control
+* Multi-axis robotic arm integration
+
+---
+
+## License
+
+This project is licensed under the MIT License.
 
 
