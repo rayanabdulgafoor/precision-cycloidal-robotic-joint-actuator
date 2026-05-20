@@ -44,4 +44,25 @@ ESP32 | AS5600 Encoder | NEMA17 Stepper Motor | TB6600 Driver | Fusion 360 | PET
 
 ---
 
+## Embedded & Control System
+
+* ESP32-based actuator control architecture
+* AS5600 magnetic encoder integration over I²C
+* Closed-loop position feedback implementation
+* Serial-command based actuator control workflow
+* Stepper motor control using TB6600 drivers
+
+---
+
+## Fabrication & Prototyping
+
+The actuator system was fabricated using a combination of:
+
+* PETG FDM 3D printing
+* Laser-cut support components
+* Rapid iterative prototyping workflows
+* Experimental assembly and calibration procedures
+
+---
+
 
