@@ -83,6 +83,10 @@ The actuator was iteratively tested to evaluate:
 * Encoder feedback consistency
 * Electromechanical integration reliability
 
+![Testing](/assets/photos/testing_and_control01.png)
+
+![Testing](/assets/photos/testing_and_control02.png)
+
 <!-- ---
 
 ## Repository Structure
